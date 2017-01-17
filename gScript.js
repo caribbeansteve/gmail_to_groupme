@@ -1,5 +1,5 @@
 var botID = "BOTIDHERE"
-var email = "pkartbot@gmail.com"
+var email = "INSERTEMAILHERE"
 
 
 function main() {
